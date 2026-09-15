@@ -1,8 +1,8 @@
 {
-  "commandId": 1,
+  "commandId": 2,
 
   "restart": false,
-  "rescanPhotos": false,
+  "rescanPhotos": true,
   "startSlideshow": false,
   "compactHistory": false,
 
