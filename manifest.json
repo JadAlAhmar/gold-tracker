@@ -1,0 +1,11 @@
+{
+  "commandId": 1,
+
+  "restart": false,
+  "rescanPhotos": false,
+  "startSlideshow": false,
+  "compactHistory": false,
+
+  "firmwareVersion": "stage23-2026-09-13",
+  "firmwareUrl": "https://raw.githubusercontent.com/JadAlAhmar/gold-tracker/main/gold_dashboard.ino.bin"
+}
