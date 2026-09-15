@@ -6,6 +6,6 @@
   "startSlideshow": false,
   "compactHistory": false,
 
-  "firmwareVersion": "stage23-2026-09-13",
-  "firmwareUrl": "https://raw.githubusercontent.com/JadAlAhmar/gold-tracker/main/gold_dashboard.ino.bin"
+"firmwareVersion": "stage24-2026-09-15",
+"firmwareUrl": "https://raw.githubusercontent.com/JadAlAhmar/gold-tracker/main/gold_dashboard.ino.bin"
 }
